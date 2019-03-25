@@ -1,0 +1,7 @@
+owner=508259209742123018
+prefix=#
+game=Maysstro | #play
+stayinchannel=true
+songinstatus=false
+token=NTU5NzU4OTI5NDA0MzYyNzUy.D3qD0A.bReJcYvsz4Jyx_v9dUftZ0V_E3M
+
